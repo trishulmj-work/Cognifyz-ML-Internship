@@ -21,7 +21,7 @@ This repository contains my completed tasks for the **Machine Learning Internshi
 
 ## 📂 Dataset
 
-The dataset used (`Dataset (1).csv`) contains restaurant details including cuisine, location, price range, and ratings, provided as part of the internship program.
+The dataset used (`Dataset .csv`) contains restaurant details including cuisine, location, price range, and ratings, provided as part of the internship program.
 
 ## 📊 Approach
 
